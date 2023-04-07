@@ -1,0 +1,11 @@
+
+.select-region{
+    border-radius: 5%;
+    width: 400px;
+    padding: 10px;
+    background-color: #F2F3F5 ;
+}
+
+.select-zip{
+    padding-top: 10px;
+}
